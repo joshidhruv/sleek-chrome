@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension-boilerplate-react",
+  "name": "Sleek",
   "version": "4.2.0",
   "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
   "license": "MIT",
